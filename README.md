@@ -1,4 +1,13 @@
 # Iconic: B2C Smoke Shop E-Commerce App
+<Div>
+<img align="center" alt="Coding" width="160" src="https://media.discordapp.net/attachments/1131378335205830698/1181438192331800616/IMG_0027.PNG?ex=65810f0f&is=656e9a0f&hm=f5b6c8a14879bde2ecac21fbf2a4ccbf775a5d2b6b1409eb917fc8d6e66192b9&=&width=494&height=1070">
+<img align="center" alt="Coding" width="160" src="https://media.discordapp.net/attachments/1131378335205830698/1181438193044819978/IMG_0028.PNG?ex=65810f0f&is=656e9a0f&hm=be158b5ee2bb50f75a9949fb393783e61d2c5337dd71821666fe16264f21cb5d&=&width=494&height=1070">
+<img align="center" alt="Coding" width="160" src="https://media.discordapp.net/attachments/1131378335205830698/1181438195347509309/IMG_0031.PNG?ex=65810f0f&is=656e9a0f&hm=243384de88c306d2c0615c478db3fd2d9c06c343eee5f3a520641b58665615f5&=&width=494&height=1070">
+<img align="center" alt="Coding" width="160" src="https://media.discordapp.net/attachments/1131378335205830698/1181438190301761687/IMG_0032.PNG?ex=65810f0e&is=656e9a0e&hm=3d04401ecb6d89ccdc7d06371d41684ff5e16c6b3f89e1809a18b2d174a212dc&=&width=494&height=1070">
+<img align="center" alt="Coding" width="160" src="https://media.discordapp.net/attachments/1131378335205830698/1181438190679244912/IMG_0033.PNG?ex=65810f0e&is=656e9a0e&hm=0127e2b4c38210e7e840126f030520530aa9cf16ae1870dc8864d65fed57b50a&=&width=494&height=1070">
+<img align="center" alt="Coding" width="160" src="https://media.discordapp.net/attachments/1131378335205830698/1181438191568441425/IMG_0035.PNG?ex=65810f0e&is=656e9a0e&hm=4d20a06522a48b75e2f5b334134e2f6b5c18cf19e57c9326507473b1dd6390e8&=&width=494&height=1070">
+
+</Div>
 
 Welcome to Iconic, your premier B2C smoke shop e-commerce app! This React Native app is powered by Node.js, Express, MongoDB, and utilizes REST APIs. The UI is styled using Tailwind CSS for a modern and sleek user experience.
 
